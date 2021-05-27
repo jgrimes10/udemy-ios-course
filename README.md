@@ -6,7 +6,7 @@
 
 - [Table of Contents](#table-of-contents-)
 - [Source](#source-)
-- [What You'll Learn](#what-you'll-learn-)
+- [What You'll Learn](#what-youll-learn-)
 - [Resources](#resources-)
 - [Projects List](#projects-list-)
 
