@@ -46,4 +46,4 @@ A list of very useful websites when creating iOS applications
 ### I Am Rich 🤑
 
 Description of the app goes here
-[Project Folder](udemy-ios-course/tree/main/I%20am%20Rich)
+[Project Folder](I%20am%20Rich)
