@@ -41,7 +41,7 @@ A list of very useful websites when creating iOS applications
 - [Xcode Keyboard Shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf) - A helpful pdf document showing the basics of Xcode and many of the useful shortcuts
 - [Canva](https://www.canva.com) - Create your own logos & icons for free
 - [The Ultimate Guide to iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions) - A illustration of all of the different iOS resolutions and screen sizes
-- [iOS 12 Course Resources List](https://www.appbrewery.co/p/ios12-course-resources) - The resource site used for this course
+- [iOS Course Resources List](https://www.appbrewery.co/p/ios-course-resources) - The resource site used for this course
 
 ## Projects List 🗄
 
