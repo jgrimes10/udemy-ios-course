@@ -50,7 +50,7 @@ A list of very useful websites when creating iOS applications
 
 A simple beginner app with a label and an image to get started.
 
-[Link to Project Folder](I%20am%20Rich)
+[Link to Project Folder](Projects/I%20am%20Rich)
 
 ---
 
@@ -58,6 +58,6 @@ A simple beginner app with a label and an image to get started.
 
 Similar to the [I Am Rich](#i-am-rich-) app but done solo without instruction.
 
-[Link to Project Folder](I%20am%20Poor)
+[Link to Project Folder](Projects/I%20am%20Poor)
 
 ---
