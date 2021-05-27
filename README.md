@@ -45,5 +45,8 @@ A list of very useful websites when creating iOS applications
 
 ### I Am Rich 🤑
 
-Description of the app goes here
+A simple beginner app with a label and an image to get started.
+
+Link
+
 [Project Folder](I%20am%20Rich)
