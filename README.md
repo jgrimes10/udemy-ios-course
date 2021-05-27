@@ -12,6 +12,7 @@
 
   - [I Am Rich](#i-am-rich-)
   - [I Am Poor](#i-am-poor-)
+  - [Dicee](#dicee-)
 
   <!--te-->
 
@@ -59,5 +60,13 @@ A simple beginner app with a label and an image to get started.
 Similar to the [I Am Rich](#i-am-rich-) app but done solo without instruction.
 
 [Link to Project Folder](Projects/I%20am%20Poor)
+
+---
+
+### Dicee 🎲
+
+An app to generate and display a random dice roll with 2 dice.
+
+[Link to Project Folder](Projects/Dicee)
 
 ---
