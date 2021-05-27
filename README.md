@@ -4,13 +4,13 @@
 
 <!--ts-->
 
-- [Table of Contents](#table-of-contents-📖)
-- [Source](#source-📄)
-- [What You'll Learn](#what-you'll-learn-🎓)
-- [Resources](#resources-📚)
-- [Projects List](#projects-list-🗄)
+- [Table of Contents](#table-of-contents-)
+- [Source](#source-)
+- [What You'll Learn](#what-you'll-learn-)
+- [Resources](#resources-)
+- [Projects List](#projects-list-)
 
-  - [I Am Rich](#i-am-rich-🤑)
+  - [I Am Rich](#i-am-rich-)
 
   <!--te-->
 
