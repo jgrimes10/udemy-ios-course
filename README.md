@@ -1,13 +1,18 @@
 # iOS & Swift - The Complete iOS App Development Bootcamp
 
-# Table of Contents 📖
+## Table of Contents 📖
+
+<!--ts-->
 
 - [Table of Contents](#table-of-contents-📖)
 - [Source](#source-📄)
 - [What You'll Learn](#what-you'll-learn-🎓)
 - [Resources](#resources-📚)
 - [Projects List](#projects-list-🗄)
+
   - [I Am Rich](#i-am-rich-🤑)
+
+  <!--te-->
 
 ## Source 📄
 
@@ -16,7 +21,7 @@
 ## What You'll Learn 🎓
 
 - Be able to build any app you want
-- Create a portfolio of apps to apply for juior developer jobs at a technology company
+- Create a portfolio of apps to apply for junior developer jobs at a technology company
 - Learn to work with Apple's latest UI Framework - SwiftUI
 - Create apps that use Machine Learning using Apple's new CoreML
 - Master app marketing so you can publish your apps and generate downloads
@@ -27,7 +32,7 @@
 
 ## Resources 📚
 
-_A list of very useful websites when creating iOS applications_
+A list of very useful websites when creating iOS applications
 
 - [App Icon Generator](https://appicon.co/#image-sets) - Generate icons and images for mobile apps, android and iOS
 - [Color Hunt - Palettes](https://colorhunt.co) - Free and open platform for color inspiration with thousands of hand-picked color palettes
@@ -40,4 +45,4 @@ _A list of very useful websites when creating iOS applications_
 
 ### I Am Rich 🤑
 
-_Description of the app goes here_
+Description of the app goes here
