@@ -11,6 +11,7 @@
 - [Projects List](#projects-list-)
 
   - [I Am Rich](#i-am-rich-)
+  - [I Am Poor](#i-am-poor-)
 
   <!--te-->
 
@@ -43,8 +44,20 @@ A list of very useful websites when creating iOS applications
 
 ## Projects List 🗄
 
+---
+
 ### I Am Rich 🤑
 
 A simple beginner app with a label and an image to get started.
 
 [Link to Project Folder](I%20am%20Rich)
+
+---
+
+### I Am Poor 💸
+
+Similar to the [I Am Rich](#i-am-rich-) app but done solo without instruction.
+
+[Link to Project Folder](I%20am%20Poor)
+
+---
