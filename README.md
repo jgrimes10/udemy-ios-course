@@ -47,6 +47,4 @@ A list of very useful websites when creating iOS applications
 
 A simple beginner app with a label and an image to get started.
 
-Link
-
-[Project Folder](I%20am%20Rich)
+[Link to Project Folder](I%20am%20Rich)
