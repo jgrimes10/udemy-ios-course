@@ -14,6 +14,7 @@
   - [I Am Poor](#i-am-poor-)
   - [Dicee](#dicee-)
   - [Magic 8 Ball](#magic-8-ball-)
+  - [Xylophone](#xylophone-)
 
   <!--te-->
 
@@ -77,3 +78,13 @@ An app to generate and display a random dice roll with 2 dice.
 An app like the classic child's toy. Ask the Magic 8 Ball anything and get a response.
 
 [Link to Project Folder](Projects/Magic%208%20Ball)
+
+---
+
+### Xylophone 🎹
+
+An app that will play different notes when the keys on the xylophone are tapped.
+
+[Link to Project Folder](Projects/Xylophone)
+
+---
