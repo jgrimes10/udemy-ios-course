@@ -13,6 +13,7 @@
   - [I Am Rich](#i-am-rich-)
   - [I Am Poor](#i-am-poor-)
   - [Dicee](#dicee-)
+  - [Magic 8 Ball](#magic-8-ball-)
 
   <!--te-->
 
@@ -70,3 +71,9 @@ An app to generate and display a random dice roll with 2 dice.
 [Link to Project Folder](Projects/Dicee)
 
 ---
+
+### Magic 8 Ball 🎱
+
+An app like the classic child's toy. Ask the Magic 8 Ball anything and get a response.
+
+[Link to Project Folder](Projects/Magic%208%20Ball)
